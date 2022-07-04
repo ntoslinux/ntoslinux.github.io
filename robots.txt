@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ntoslinux.github.io/ntoslinux.github.io/sitemap.xml
