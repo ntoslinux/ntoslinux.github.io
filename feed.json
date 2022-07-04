@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ntoslinux.github.io/setting-up-publii-with-github-pages.html",
+            "url": "https://ntoslinux.github.io/setting-up-publii-with-github-pages.html",
+            "title": "Setting up Publii with Github pages",
+            "summary": "https://getpublii.com/",
+            "content_html": "<p> </p>\n<p><a href=\"https://getpublii.com/\">https://getpublii.com/</a> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ntoslinux.github.io/media/posts/2/2022-07-03_214357.png\" sizes=\"100vw\" srcset=\"https://ntoslinux.github.io/media/posts/2/responsive/2022-07-03_214357-xs.png 300w ,https://ntoslinux.github.io/media/posts/2/responsive/2022-07-03_214357-sm.png 480w ,https://ntoslinux.github.io/media/posts/2/responsive/2022-07-03_214357-md.png 768w ,https://ntoslinux.github.io/media/posts/2/responsive/2022-07-03_214357-lg.png 1024w ,https://ntoslinux.github.io/media/posts/2/responsive/2022-07-03_214357-xl.png 1360w ,https://ntoslinux.github.io/media/posts/2/responsive/2022-07-03_214357-2xl.png 1600w\"  alt=\"\" width=\"955\" height=\"1115\"></figure>",
+            "author": {
+                "name": "ntoslinux"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-03T21:47:53-07:00",
+            "date_modified": "2022-07-03T21:47:53-07:00"
+        },
+        {
             "id": "https://ntoslinux.github.io/ubuntu-mate-customization.html",
             "url": "https://ntoslinux.github.io/ubuntu-mate-customization.html",
             "title": "Ubuntu Mate Customization",
