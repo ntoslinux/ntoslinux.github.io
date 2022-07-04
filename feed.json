@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "NTOSLinux",
     "description": "",
-    "home_page_url": "https://ntoslinux.github.io/ntoslinux.github.io",
-    "feed_url": "https://ntoslinux.github.io/ntoslinux.github.io/feed.json",
+    "home_page_url": "https://ntoslinux.github.io",
+    "feed_url": "https://ntoslinux.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "ntoslinux"
     },
     "items": [
         {
-            "id": "https://ntoslinux.github.io/ntoslinux.github.io/ubuntu-mate-customization.html",
-            "url": "https://ntoslinux.github.io/ntoslinux.github.io/ubuntu-mate-customization.html",
+            "id": "https://ntoslinux.github.io/ubuntu-mate-customization.html",
+            "url": "https://ntoslinux.github.io/ubuntu-mate-customization.html",
             "title": "Ubuntu Mate Customization",
             "summary": "sudo apt-get install linux-source sudo add-apt-repository ppa:mmstick76/alacritty sudo apt install alacritty tmux git vim",
             "content_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">sudo apt-get install linux-source</p>\n<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">sudo add-apt-repository ppa:mmstick76/alacritty</p>\n<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">sudo apt install alacritty tmux git vim</p>",

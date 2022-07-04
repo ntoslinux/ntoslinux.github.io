@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>NTOSLinux</title>
-    <link href="https://ntoslinux.github.io/ntoslinux.github.io/feed.xml" rel="self" />
-    <link href="https://ntoslinux.github.io/ntoslinux.github.io" />
+    <link href="https://ntoslinux.github.io/feed.xml" rel="self" />
+    <link href="https://ntoslinux.github.io" />
     <updated>2022-07-03T19:22:05-07:00</updated>
     <author>
         <name>ntoslinux</name>
     </author>
-    <id>https://ntoslinux.github.io/ntoslinux.github.io</id>
+    <id>https://ntoslinux.github.io</id>
 
     <entry>
         <title>Ubuntu Mate Customization</title>
         <author>
             <name>ntoslinux</name>
         </author>
-        <link href="https://ntoslinux.github.io/ntoslinux.github.io/ubuntu-mate-customization.html"/>
-        <id>https://ntoslinux.github.io/ntoslinux.github.io/ubuntu-mate-customization.html</id>
+        <link href="https://ntoslinux.github.io/ubuntu-mate-customization.html"/>
+        <id>https://ntoslinux.github.io/ubuntu-mate-customization.html</id>
 
         <updated>2022-07-03T19:22:05-07:00</updated>
             <summary>
