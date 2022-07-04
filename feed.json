@@ -22,20 +22,6 @@
             ],
             "date_published": "2022-07-03T21:47:53-07:00",
             "date_modified": "2022-07-03T21:47:53-07:00"
-        },
-        {
-            "id": "https://ntoslinux.github.io/ubuntu-mate-customization.html",
-            "url": "https://ntoslinux.github.io/ubuntu-mate-customization.html",
-            "title": "Ubuntu Mate Customization",
-            "summary": "sudo apt-get install linux-source sudo add-apt-repository ppa:mmstick76/alacritty sudo apt install alacritty tmux git vim",
-            "content_html": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">sudo apt-get install linux-source</p>\n<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">sudo add-apt-repository ppa:mmstick76/alacritty</p>\n<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">sudo apt install alacritty tmux git vim</p>",
-            "author": {
-                "name": "ntoslinux"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-07-03T19:22:05-07:00",
-            "date_modified": "2022-07-03T19:22:05-07:00"
         }
     ]
 }
